@@ -4,6 +4,18 @@ LLM_CF_v2 is a synthetic car-following dataset of **1329 admitted scenes** (11.1
 
 ---
 
+## Dataset Access
+
+A **mini-dataset (24 GB, 16 scenes)** covering all 9 scenario categories, both traffic regimes, and all 3 driving styles is available for reviewer verification:
+
+> **[Download Mini-Dataset (OneDrive)](https://iith-my.sharepoint.com/:f:/r/personal/ai21resch11004_iith_ac_in/Documents/DATASET?d=wa66c55db95c94442bb6551faf6b9c1f4&csf=1&web=1&e=oarwT1)**
+
+The mini-dataset has the **identical folder structure** as the full release (see [Folder Structure](#folder-structure-generated-dataset) below) and can be used directly with all scripts in this repository.
+
+The **full dataset (1329 scenes, ~1.3 TB)** will be made publicly available upon acceptance of the paper.
+
+---
+
 ## Dataset Overview
 
 | Property | Value |
