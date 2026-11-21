@@ -12,7 +12,7 @@ A **mini-dataset (24 GB, 16 scenes)** covering all 9 scenario categories, both t
 
 The mini-dataset has the **identical folder structure** as the full release (see [Folder Structure](#folder-structure-generated-dataset) below) and can be used directly with all scripts in this repository.
 
-The **full dataset (1329 scenes, ~1.3 TB)** will be made publicly available upon acceptance of the paper.
+The **full dataset (1329 scenes, ~3.5 TB)** will be made publicly available upon acceptance of the paper.
 
 ---
 
